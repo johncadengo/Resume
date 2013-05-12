@@ -27,7 +27,7 @@ def parse_options():
         '--less',
         dest='less',
         default='src/less/default.less',
-        help=''
+        help='specify the path of the LESS file used to generate the css'
     )
     parser.add_option(
         '-m',
