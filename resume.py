@@ -93,7 +93,8 @@ def main():
         os.makedirs('build/pdf')
 
     call(['wkhtmltopdf', '-B', '0.0', '-L', '0.0', '-R', '0.0', '-T', '0.0',
-          './build/html/john-cadengo.html', './build/pdf/john-cadengo.pdf'])
+          '-s', 'Letter', './build/html/john-cadengo.html',
+          './build/pdf/john-cadengo.pdf'])
 
 
 if __name__ == '__main__':
