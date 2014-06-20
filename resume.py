@@ -88,6 +88,13 @@ def main():
     f.write(template)
     f.close()
 
+    # Generate a png thumbnail
+    if not os.path.exists('build/png'):
+        os.makedirs('build/png')
+
+    call(['wkhtmltoimage', './build/html/john-cadengo.html',
+          './build/png/john-cadengo.png'])
+
     # And finally, use that generated html to produce a pdf
     if not os.path.exists('build/pdf'):
         os.makedirs('build/pdf')
@@ -95,6 +102,7 @@ def main():
     call(['wkhtmltopdf', '-B', '0.0', '-L', '0.0', '-R', '0.0', '-T', '0.0',
           '-s', 'Letter', './build/html/john-cadengo.html',
           './build/pdf/john-cadengo.pdf'])
+
 
 
 if __name__ == '__main__':
