@@ -52,13 +52,16 @@
             border-collapse: collapse;
             border-spacing: 0;
         }
+
     </style>
 
     <link href="../../fonts/generated/stylesheet.css" type="text/css" rel="stylesheet">
 
     <style type="text/css">
-        {{ css }}
+        {% set css = css %}
+        {% include css %}
     </style>
+
 </head>
 
 <body>

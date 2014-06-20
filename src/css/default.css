@@ -1,0 +1,55 @@
+body {
+  font-size: 12px;
+  font-family: 'UniversLTStd45Light';
+  line-height: 1.5em;
+  padding-top: 5.6625em;
+  padding-left: 8.60875em;
+  padding-right: 8.60875em;
+  width: 59.2825em;
+}
+h1 {
+  font-family: 'TradeGothicLTStdBoldNo.2';
+  font-size: 3em;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: 'UniversLTStd65Bold';
+  text-transform: uppercase;
+  float: left;
+  margin-top: 0.75em;
+}
+h3 {
+  font-size: 0.84375em;
+  margin-top: 1.25em;
+  margin-bottom: 3.375em;
+}
+p {
+  width: 48.5em;
+  float: right;
+  margin-top: 0.75em;
+}
+strong {
+  font-family: 'UniversLTStd65Bold';
+}
+em {
+  font-family: Univers;
+}
+hr {
+  clear: both;
+  visibility: hidden;
+  border: 0px;
+  height: 1.5em;
+}
+em strong {
+  font-family: 'UniversLTStd45Light';
+  font-weight: normal;
+  font-style: normal;
+  margin: 0.7em;
+}
+strong em {
+  font-family: 'UniversLTStd45Light';
+  font-weight: normal;
+  font-style: normal;
+  margin: 0.5em;
+}
+

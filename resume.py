@@ -23,10 +23,9 @@ def parse_options():
     usage = "%prog [options]"
     parser = OptionParser(usage=usage)
     parser.add_option(
-        '-l',
-        '--less',
-        dest='less',
-        default='src/less/default.less',
+        '--css',
+        dest='css',
+        default='src/css/default.css',
         help='specify the path of the LESS file used to generate the css'
     )
     parser.add_option(
@@ -62,9 +61,9 @@ def create_template(content, css):
     """
     Plug the html content into the body of the template.
     """
-    env = Environment(loader=PackageLoader('resume', 'src'))
+    env = Environment(loader=PackageLoader('resume', '.'))
 
-    template = env.get_template('base.html')
+    template = env.get_template('src/base.html')
 
     return template.render(content=content, css=css)
 
@@ -75,11 +74,8 @@ def main():
     # First, generate the content of the resume from its markdown
     content = generate_markdown(options.markdown)
 
-    # Then, compile the less into css
-    css = check_output(['lessc', options.less])
-
     # Next, plug that into the template and save the html
-    template = create_template(content, css)
+    template = create_template(content, options.css)
 
     if not os.path.exists('build/html'):
         os.makedirs('build/html')
@@ -102,7 +98,6 @@ def main():
     call(['wkhtmltopdf', '-B', '0.0', '-L', '0.0', '-R', '0.0', '-T', '0.0',
           '-s', 'Letter', './build/html/john-cadengo.html',
           './build/pdf/john-cadengo.pdf'])
-
 
 
 if __name__ == '__main__':
