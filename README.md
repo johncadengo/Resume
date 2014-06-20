@@ -7,7 +7,7 @@ To create your own resume, [fork](https://github.com/johncadengo/Resume/fork) an
 
 Outputs html and pdf to the build folder. Check out my [resume](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf),
 
-![My resume](https://github.com/johncadengo/Resume/raw/master/build/png/john-cadengo.png =550x425)
+[![My resume](https://github.com/johncadengo/Resume/raw/master/build/png/john-cadengo.png)](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf)
 
 ###Additional Requirements
 
