@@ -1,9 +1,20 @@
 Resume
 ======
 
-A project I cobbled together to produce my resume in pdf from styled html.
+A simple script to create a pdf version of my resume from markdown and css.
+
+To create your own resume, [fork](https://github.com/johncadengo/Resume/fork) and edit the markdown file under [src/md](https://github.com/johncadengo/Resume/tree/master/src/md).
+
+Outputs html and pdf to the `build` folder. [Check out my resume](https://github.com/johncadengo/Resume/blob/master/build/pdf/john-cadengo.pdf).
 
 ###Additional Requirements
 
 `brew install wkhtmltopdf`
-`npm install -g less`
+
+###Usage
+
+`python resume.py`
+
+###Roadmap
+
+* Make into a web app with side by side markdown preview
