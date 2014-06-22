@@ -2,36 +2,36 @@
 Generate pdf resume from markdown and css.
 """
 
+import argparse
 import codecs
 import os
 import pdfkit
 
 from jinja2 import Environment, PackageLoader, Markup
 from markdown2 import markdown
-from optparse import OptionParser
-from subprocess import call
+#from subprocess import call
 
 
-def parse_options():
-    usage = "%prog [options]"
-    parser = OptionParser(usage=usage)
-    parser.add_option(
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description='Generate pdf resume from markdown and css'
+    )
+    parser.add_argument(
         '--css',
         dest='css',
         default='src/css/default.css',
-        help='specify the path of the LESS file used to generate the css'
+        help='specify the path of the CSS file'
     )
-    parser.add_option(
+    parser.add_argument(
         '-m',
         '--markdown',
         dest='markdown',
         default='src/md/john-cadengo.md',
-        help=('specify the path of the MARKDOWN used to generate the content '
-              'of the html')
+        help=('specify the path of the MARKDOWN file')
     )
 
-    (options, args) = parser.parse_args()
-    return options
+    args = parser.parse_args()
+    return args
 
 
 def generate_markdown(mdfile):
@@ -56,14 +56,16 @@ def create_template(content, css):
 
 
 def main():
-    options = parse_options()
-    content = generate_markdown(options.markdown)
-    template = create_template(content, options.css)
+    args = parse_args()
+    content = generate_markdown(args.markdown)
+    template = create_template(content, args.css)
+    filename = os.path.basename(args.markdown)
+    name = os.path.splitext(filename)[0]
 
     if not os.path.exists('build/html'):
         os.makedirs('build/html')
 
-    html = 'build/html/john-cadengo.html'
+    html = 'build/html/{}.html'.format(name)
     f = codecs.open(html, 'w', encoding='utf-8')
     f.write(template)
     f.close()
@@ -73,7 +75,7 @@ def main():
     #    os.makedirs('build/png')
 
     #call(['wkhtmltoimage', html,
-    #      './build/png/john-cadengo.png'])
+    #      './build/png/{}.png'.format(name)])
 
     # Generate the pdf
     if not os.path.exists('build/pdf'):
@@ -86,7 +88,7 @@ def main():
         'margin-left': '0.0',
         'page-size': 'Letter'
     }
-    pdfkit.from_file(html, './build/pdf/john-cadengo.pdf', options)
+    pdfkit.from_file(html, './build/pdf/{}.pdf'.format(name), options)
 
 
 if __name__ == '__main__':
