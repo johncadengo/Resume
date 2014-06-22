@@ -14,7 +14,8 @@ from markdown2 import markdown
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description='Generate pdf resume from markdown and css'
+        description='Generate pdf resume from markdown and css',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )
     parser.add_argument(
         '--css',
@@ -86,9 +87,10 @@ def main():
         'margin-right': '0.0',
         'margin-bottom': '0.0',
         'margin-left': '0.0',
+        'encoding': "UTF-8",
         'page-size': 'Letter'
     }
-    pdfkit.from_file(html, './build/pdf/{}.pdf'.format(name), options)
+    pdfkit.from_file(html, './build/pdf/{}.pdf'.format(name), options=options)
 
 
 if __name__ == '__main__':

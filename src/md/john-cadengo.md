@@ -14,7 +14,7 @@ Coded v2 of an API that reduced the complexity of calls made by client mobile ap
 
 **BoxOut Development LLC**__*|*__New York, NY<br>
 *Co-Founder, Lead Developer*, January 2011 – July 2012<br>
-Co-founded a startup, designed APIs and web apps, and published two iOS apps. The first, Snapstacks, aggregated photo feeds, had over 10,000 downloads, and appeared on the "new and noteworthy" section of iTunes. The second, Dash, recommended good places to eat based on your location and social network.
+Co-founded a startup, designed APIs and web apps, and published two iOS apps. The first, Snapstacks, aggregated photo feeds, had over 10,000 downloads, and appeared on the "new and noteworthy" section of iTunes. The second, Dash, recommended good places to eat based on your location and social network. Incubated the company at Yale University's Entrepreneurial Institute in the summer of 2012.
 
 **Modest Peach**__*|*__New York, NY<br>
 *Web Developer*, December 2011 – January 2012<br>
@@ -63,8 +63,7 @@ Co-founded a student-run magazine fostering interfaith dialogue. Led a staff of 
 Led teams of dozens of people on monthly visits to volunteer at soup kitchens. Led a group of eighty students from campuses across California to volunteer at an orphanage in Rosarito, Mexico.
 
 **KCM Short Term Summer Missions Program**<br>
-Traveled to India July 2007 – August 2007<br>
-Traveled to India July 2006 – August 2006<br>
+Traveled to India July 2006 – August 2006, July 2007 – August 2007<br>
 Taught a class of 10th standard students at St. Paul High School in Bangalore, India on both occasions.
 
 ***
