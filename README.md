@@ -20,3 +20,4 @@ Outputs html and pdf to the `build` folder. Check out my [resume](https://github
 ###Roadmap
 
 * Make into a web app with side by side markdown preview
+* Add different css styles with options to interchange
