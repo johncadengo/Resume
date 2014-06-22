@@ -11,11 +11,19 @@ Outputs html and pdf to the `build` folder. Check out my [resume](https://github
 
 ###Additional Requirements
 
-`brew install wkhtmltopdf`
+Install `wkhtmltopdf` version 0.9.9. Any version after [hangs](http://stackoverflow.com/a/14043085) when run from the command-line.
+
+Uninstall if you already have a later version,
+
+`$ brew uninstall wkhtmltopdf`
+
+Install wkhtmltopdf version 0.9.9,
+
+`$ brew install https://raw.github.com/mxcl/homebrew/6e2d550cf4961129a790bfb0973f8e88704f439d/Library/Formula/wkhtmltopdf.rb`
 
 ###Usage
 
-`python resume.py`
+`$ python resume.py`
 
 ###Roadmap
 

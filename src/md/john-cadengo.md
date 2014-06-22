@@ -25,7 +25,7 @@ Built an e-commerce site based on mockups in photoshop by a designer. Extended a
 Skills
 ------
 Python, Django, Flask, Objective-C, iOS, Javascript, jQuery, HTML, CSS, SQL, regex.<br>
-Stack Overflow, Thought Catalog, MBTI, Sherlock, Derrida, and Kierkegaard.
+Stack Overflow, Thought Catalog, MBTI, Sherlock, Derrida, Kierkegaard, and long-distance running.
 
 ***
 
