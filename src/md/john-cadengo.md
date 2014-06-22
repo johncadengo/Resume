@@ -65,6 +65,6 @@ Led teams of dozens of people on monthly visits to volunteer at soup kitchens. L
 **KCM Short Term Summer Missions Program**<br>
 Traveled to India July 2007 – August 2007<br>
 Traveled to India July 2006 – August 2006<br>
-Taught a class of 10th grade students at St. Paul High School in Bangalore, India on both occasions.
+Taught a class of 10th standard students at St. Paul High School in Bangalore, India on both occasions.
 
 ***
