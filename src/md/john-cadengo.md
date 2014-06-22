@@ -1,6 +1,6 @@
 John Cadengo
 ============
-### 43-35 40th Street #1F, Sunnyside, NY 11104*__|__*(909) 844 8713*__|__*johncadengo@gmail.com
+### 43-35 40th Street #1F, Sunnyside, NY 11104*__|__*(909) 844 8713*__|__*johncadengo@gmail.com*__|__*https://github.com/johncadengo
 
 Experience
 ----------
@@ -55,14 +55,16 @@ Awards
 Leadership
 ----------
 **The Stand: A Journal of Christian Thought at UCSD**<br>
-*Co-Founder, Co-Editor-in-Chief*, September 2009 – July 2010
+*Co-Founder, Co-Editor-in-Chief*, September 2009 – July 2010<br>
+Co-founded a student-run magazine fostering interfaith dialogue. Led a staff of twenty to produce, publish, and distribute quarterly issues of up to 2,000 copies each. Managed finances in the thousands of dollars and made public speeches promoting our vision in front of groups of hundreds of people.
 
 **Korean-American Campus Missions (KCM)**<br>
-*Active Member, Student Leader*, September 2005 – July 2010
+*Active Member, Student Leader*, September 2005 – July 2010<br>
+Led teams of dozens of people on monthly visits to volunteer at soup kitchens. Led a group of eighty students from campuses across California to volunteer at an orphanage in Rosarito, Mexico.
 
 **KCM Short Term Summer Missions Program**<br>
 Traveled to India July 2007 – August 2007<br>
 Traveled to India July 2006 – August 2006<br>
-Taught a class of 10th grade students for a week on both occasions.
+Taught a class of 10th grade students on both occasions.
 
 ***
