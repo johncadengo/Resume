@@ -60,6 +60,6 @@ Co-founded a student-run magazine fostering interfaith dialogue. Led a staff of 
 
 **Korean-American Campus Missions (KCM)**<br>
 *Active Member, Student Leader*, September 2005 – July 2010<br>
-Led teams of dozens of people on monthly visits to volunteer at soup kitchens. Led a group of eighty students from campuses across California to volunteer at an orphanage in Rosarito, Mexico. Traveled to India in the summers of 2006 and 2007 to teach English to 10th standard students at St. Paul High School in Bangalore, India.
+Led teams of dozens of people on monthly visits to volunteer at soup kitchens. Led a group of eighty students from campuses across California to volunteer at an orphanage in Rosarito, Mexico. Taught English to 10th standard students at St. Paul High School in Bangalore, India in the summers of 2006 and 2007.
 
 ***

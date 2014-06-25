@@ -60,8 +60,8 @@ def main():
     args = parse_args()
     content = generate_markdown(args.markdown)
     template = create_template(content, args.css)
-    filename = os.path.basename(args.markdown)
-    name = os.path.splitext(filename)[0]
+    filename = os.path.basename(args.markdown) # john-cadengo.md
+    name = os.path.splitext(filename)[0] # john-cadengo
 
     if not os.path.exists('build/html'):
         os.makedirs('build/html')
