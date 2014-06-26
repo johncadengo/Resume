@@ -6,7 +6,7 @@ Experience
 ----------
 **AppCard**__*|*__New York, NY<br>
 *Ops Engineer*, June 2013 - Present<br>
-Responsible for integrating individual point of sale systems to proprietary data capture and receipt processing engines by coordinating between development, operations, and account managers. Developed internal tools to perform regression testing and calibrate OCR. Churned out custom reports, specialized offers, data scrapers, task automators, sales leads, and so on.
+Responsible for integrating individual point of sale systems to proprietary data capture and receipt processing engines by coordinating between development, operations, and account managers. Developed internal tools to perform regression testing and calibrate OCR. Churned out custom reports, specialized offers, data scrapers, task automators, and sales leads.
 
 **CBS Local**__*|*__New York, NY<br>
 *Software Engineer*, July 2012 - June 2013<br>
