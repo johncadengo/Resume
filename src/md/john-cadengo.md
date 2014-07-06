@@ -54,7 +54,7 @@ Awards
 
 Leadership
 ----------
-**The Stand: A Journal of Christian Thought at UCSD**<br>
+**The Stand**<br>
 *Co-Founder, Co-Editor-in-Chief*, September 2009 – July 2010<br>
 Co-founded a student-run magazine fostering interfaith dialogue. Led a staff of twenty to produce, publish, and distribute quarterly issues of up to 2,000 copies each. Managed finances in the thousands of dollars and made public speeches promoting our vision in front of groups of hundreds of people.
 
