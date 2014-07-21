@@ -1,6 +1,6 @@
 John Cadengo
 ============
-### 43-35 40th Street #1F, Sunnyside, NY 11104*__|__*(909) 844 8713*__|__*johncadengo@gmail.com*__|__*https://github.com/johncadengo
+### 1200 Lakeshore Avenue, Apt 1A, Oakland, CA  94606*__|__*(909) 844 8713*__|__*johncadengo@gmail.com*__|__*https://github.com/johncadengo
 
 Experience
 ----------
