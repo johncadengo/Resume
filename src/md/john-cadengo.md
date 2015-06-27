@@ -4,8 +4,16 @@ John Cadengo
 
 Experience
 ----------
+**Getaround**__*|*__San Francisco, CA<br>
+*Software Engineer*, September 2014 - Present<br>
+Built out several new features for the web app, including support for management of multiple cars, feedback service for owners and renters, and a universal referral system for owners and renters. Supported marketing initatives by developing facades for third-party CRMs, creating promotional landing pages, and integrating analytics. Ensured data integrity by fixing bugs in infrastructure and performing data migrations.
+
+**Doxa Score**__*|*__San Francisco, CA<br>
+*Software Engineer, Advisor*, March 2015 - Present<br>
+Coordinated the creation of the MVP of Doxa, a platform that uses data science to match qualified women to tech companies based on skills, social traits, and work values. Handled integration between the Rails web app and Flask ranking algorithm API. Developed deployment processes and infrastructure and oversaw site reliability. Within a month of launching, we were featured in Wired, Fortune, and the New York Times.
+
 **AppCard**__*|*__New York, NY<br>
-*Ops Engineer*, June 2013 - Present<br>
+*Ops Engineer*, June 2013 - July 2014<br>
 Responsible for integrating individual point of sale systems to proprietary data capture and receipt processing engines by coordinating between development, operations, and account managers. Developed internal tools to perform regression testing and calibrate OCR. Churned out custom reports, specialized offers, data scrapers, task automators, and sales leads.
 
 **CBS Local**__*|*__New York, NY<br>
@@ -16,16 +24,12 @@ Coded v2 of an API that reduced the complexity of calls made by client mobile ap
 *Co-Founder, Lead Developer*, January 2011 – July 2012<br>
 Co-founded a startup, designed APIs and web apps, and published two iOS apps. The first, Snapstacks, aggregated photo feeds, had over 10,000 downloads, and appeared on the "new and noteworthy" section of iTunes. The second, Dash, recommended good places to eat based on user location and social network. Incubated at and received funding from Yale University's Entrepreneurial Institute in the summer of 2012.
 
-**Modest Peach**__*|*__New York, NY<br>
-*Web Developer*, December 2011 – January 2012, ongoing<br>
-Built an e-commerce site from scratch based on mockups in photoshop by the design team. Extended a popular framework to allow customized sorting, pagination, order tracking, shipping rate tables, sharing, and checkout process.
-
 ***
 
 Skills
 ------
-Python, Django, Flask, Objective-C, iOS, Javascript, jQuery, HTML, CSS, SQL, regex.<br>
-Stack Overflow inquisitor, Thought Catalog contributor, MBTI enthusiast, Sherlock hobbyist, Derrida fan, Kierkegaard follower, and long-distance runner.
+Python, Django, Flask, App Engine, Objective-C, iOS, Javascript, jQuery, Backbone, HTML, CSS, SQL, regex.<br>
+Stack Overflow inquisitor, Thought Catalog contributor, MBTI enthusiast, Dunning-Kruger expert, Sherlock hobbyist, Kierkegaard follower, bad badminton player, long-distance runner, and California native.
 
 ***
 
@@ -49,17 +53,5 @@ Awards
 ------
 **Chancellor's Scholarship**<br>
 75% of tuition paid for at UCR, September 2005 – July 2007
-
-***
-
-Leadership
-----------
-**The Stand**<br>
-*Co-Founder, Co-Editor-in-Chief*, September 2009 – July 2010<br>
-Co-founded a student-run magazine fostering interfaith dialogue. Led a staff of twenty to produce, publish, and distribute quarterly issues of up to 2,000 copies each. Managed finances in the thousands of dollars and made public speeches promoting our vision in front of groups of hundreds of people.
-
-**Korean-American Campus Missions (KCM)**<br>
-*Active Member, Student Leader*, September 2005 – July 2010<br>
-Led teams of dozens of people on monthly visits to volunteer at soup kitchens. Led a group of eighty students from campuses across California to volunteer at an orphanage in Rosarito, Mexico. Taught English to 10th standard students at St. Paul High School in Bangalore, India in the summers of 2006 and 2007.
 
 ***
