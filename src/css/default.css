@@ -3,6 +3,7 @@ body {
   font-family: 'UniversLTStd45Light';
   line-height: 1.5em;
   padding-top: 7.6625em;
+  padding-bottom: 7.6625em;
   padding-left: 8.60875em;
   padding-right: 8.60875em;
   width: 59.2825em;
@@ -52,4 +53,3 @@ strong em {
   font-style: normal;
   margin: 0.5em;
 }
-
