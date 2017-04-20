@@ -9,7 +9,7 @@ Outputs html and pdf to the `build` folder. Check out my [resume](https://github
 
 [![My resume](https://github.com/johncadengo/Resume/raw/master/build/png/john-cadengo.png)](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf)
 
-###Additional Requirements
+### Additional Requirements
 
 Install `wkhtmltopdf` version 0.9.9. Any version after [hangs](http://stackoverflow.com/a/14043085) when run from the command-line.
 
@@ -21,11 +21,11 @@ Install wkhtmltopdf version 0.9.9,
 
     $ brew install https://raw.github.com/mxcl/homebrew/6e2d550cf4961129a790bfb0973f8e88704f439d/Library/Formula/wkhtmltopdf.rb
 
-###Usage
+### Usage
 
     $ python resume.py
 
-###Roadmap
+### Roadmap
 
 * Make into a web app with side by side markdown preview
 * Add different css styles with options to interchange
