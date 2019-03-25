@@ -4,7 +4,7 @@ Tiffany Pang
 
 Current Role
 ------------
-**Appledore**__*|*__San Francisco, CA__*|*outreachgrid.com<br>
+**Appledore**__*|*__San Francisco, CA__*|*__outreachgrid.com<br>
 *Co-founder, CEO*, June 2016 - Present<br>
 We make tools for people to understand others.
 
