@@ -1,14 +1,16 @@
 John Cadengo
 ============
-### San Francisco, CA*__|__*(909) 844 8713*__|__*john@sensolabs.io*__|__*sensolabs.io
+### Irvine, CA*__|__*(909) 844 8713*__|__*john@appledore.io*__|__*outreachgrid.com
 
 Current Role
 ------------
-**Senso Labs**__*|*__San Francisco, CA__*|*__sensolabs.io<br>
+**Appledore**__*|*__Irvine, CA__*|*__outreachgrid.com<br>
 *Co-founder, CTO*, June 2016 - Present<br>
-We help companies understand how audiences react to their creative content using attention tracking and emotion research. Our core technology creates 3D facial models of individuals' faces to calculate facial movements. We are located in San Francisco and Los Angeles and are supported by Plug and Play, Digital Garage Incubation, and Hanhai Studios.
+We make tools for people to understand others.
 
-As Appledore, we joined the 2016 cohort of the Startup in Residence program of the San Francisco Mayor's Office of Civic Innovation to help law enforcement agencies coordinate identity and visual information for the homeless population (outreachgrid.com).
+Our product is Outreach Grid, a collaborative software suite for service outreach workers, service providers, law enforcement, and city management to manage their city's homelessness. We work with Continuum of Care groups and homeless coalitions to coordinate data from first contact to housing.
+
+Outreach Grid was created as part of the 2016 Startup in Residence program in San Francisco and incubated during Batch 13 of the Open Network Lab accelerator in Tokyo.
 
 ***
 
@@ -61,8 +63,8 @@ The company was incubated at the Yale Entrepreneurial Institute in Summer 2012.
 
 Skills
 ------
-*Fluent*: Python, Flask, Ruby, Rails, JavaScript, React, HTML, CSS, WebGL, PostgreSQL<br>
-*Experienced*: Django, Objective-C, Swift, iOS, Backbone.js, regex<br>
+*Fluent*: Swift, Python, Flask, Ruby, Rails, JavaScript, React, HTML, CSS, PostgreSQL<br>
+*Experienced*: Django, Objective-C, Java, Backbone.js, WebGL, regex<br>
 
 ***
 
